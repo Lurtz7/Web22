@@ -1,0 +1,48 @@
+﻿
+    .table{
+    display: table;
+    width: 100%;
+}
+.tableRow {
+    display: table-row;
+}
+
+
+
+.tableCell, .tableHead {
+    display: table-cell;
+    padding: 3px 10px;
+    border: 1px solid #999999;
+}
+
+.tableHeading {
+    display: table-header-group;
+    background-color: aqua;
+    font-weight: bold;
+}
+
+.tableBody {
+    display: table-row-group;
+}
+
+.tableFoot {
+    
+    display: table-footer-group;
+    background-color: aqua;
+    font-weight: bold;
+    
+
+} 
+            
+
+}
+.tableAdd {
+    display: table;
+    margin:auto;
+    font-weight: bold;
+    text-align: center;
+
+}
+#myChart{
+    margin:auto
+}
